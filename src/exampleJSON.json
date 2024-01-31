@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Snejana Farberov",
+            "title": "Dying mobster who confessed to stealing 'Wizard of Oz' ruby slippers learns his fate - New York Post ",
+            "description": "Confessed thief Terry Jon Martin is in hospice care and expected to die within months.",
+            "url": "https://nypost.com/2024/01/29/news/mobster-who-stole-wizard-of-oz-ruby-slippers-spared-jail-2/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/2023-martin-charged-museum-heist-75645249.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-01-29T21:19:00Z",
+            "content": "For a dying mobster who confessed to stealing the iconic ruby slippers worn in The Wizard of Oz theres no place like home after he was spared prison time Monday. Terry Jon Martin, 76, faced a Minnes… [+5490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "An Alex Murdaugh juror says the court clerk made him seem guilty before he testified - NPR",
+            "description": "The South Carolina attorney appealed his conviction of killing his wife and son, arguing that the clerk of court's comments to jurors influenced their decision.",
+            "url": "https://www.npr.org/2024/01/29/1227691743/alex-murdaugh-juror-says-clerk-made-him-seem-guilty-murder-appeal",
+            "urlToImage": "https://media.npr.org/assets/img/2024/01/29/ap24029641946380_wide-99a816078ead4889e01dd7ec1be57bfc2e251c7c-s1400-c100.jpg",
+            "publishedAt": "2024-01-29T21:17:20Z",
+            "content": "Alex Murdaugh, left, confers with Phil Barber during his hearing at the Richland County Judicial Center in Columbia, S.C., on Monday, Jan. 29, 2024. Tracy Glantz/The State via AP,/Pool COLUMBIA, S.… [+7007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Tim Kawakami",
+            "title": "Kawakami: 49ers didn’t just come back to win the NFC title, they justified this entire era - The Athletic",
+            "description": "It started slowly but then got faster and faster. The 49ers' second-half comeback was everything they needed, all at once.",
+            "url": "https://theathletic.com/5234531/2024/01/29/49ers-nfc-championship-justified-era-kawakami/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/01/29031540/USATSI_22396548.jpg",
+            "publishedAt": "2024-01-29T21:02:55Z",
+            "content": "SANTA CLARA, Calif. When the moment of absolute truth arrived Sunday, the San Francisco 49ers werent scared, they were angry. They were ashamed. They were kicking away the NFC Championship Game and t… [+8437 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "LOLITA C. BALDOR. AAMER MADHANI, ZEKE MILLER",
+            "title": "Enemy drone that killed US troops in Jordan was mistaken for a US drone, preliminary report suggests - The Associated Press",
+            "description": "An enemy drone that killed three American troops and wounded dozens of others in Jordan may have been confused with an American drone returning to the U.S. installation. That's according to two U.S. officials who were not authorized to comment and insisted on…",
+            "url": "https://apnews.com/article/jordan-drone-attack-attack-confusion-f175962e058b9b6f668303faf248d8e6",
+            "urlToImage": "https://dims.apnews.com/dims4/default/5377628/2147483647/strip/true/crop/11196x6298+0+583/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2Fad%2Faeb8d5516aab9387e8b805e974bb%2Fb5821769255e4f038824b81c1b7fea44",
+            "publishedAt": "2024-01-29T20:55:47Z",
+            "content": "WASHINGTON (AP) U.S. forces may have mistaken an enemy drone for an American one and let it pass unchallenged into a desert base in Jordan where it killed three U.S. troops and wounded dozens more, o… [+7272 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Katherine Itoh",
+            "title": "Missing 5-year-old Kentucky girl found safe after mother fatally shot - NBC News",
+            "description": "State officials canceled an Amber Alert issued Monday morning for a 5-year-old Kentucky girl after she was safely located.",
+            "url": "https://www.nbcnews.com/news/us-news/amber-alert-issued-missing-5-year-old-kentucky-girl-mother-found-dead-rcna136196",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240129-lela-black-byron-black-3x2-mn-1230-1d63e5.jpg",
+            "publishedAt": "2024-01-29T20:55:01Z",
+            "content": "State officials canceled an Amber Alert issued Monday morning for a 5-year-old Kentucky girl after she was safely located.  Lela Black was with her biological father, 42-year-old Byron Black, who wa… [+733 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt",
+            "title": "Great white sighting may reveal a ‘holy grail’ of shark science - CNN",
+            "description": "Drone footage shot off the coast of Southern California may have enabled the first ever sighting of a newborn great white shark in the wild.",
+            "url": "https://www.cnn.com/2024/01/29/americas/first-sighting-of-newborn-great-white-shark-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240129114532-01-newborn-great-white-shark.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-29T20:44:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more. Drone footage shot off the coast of Southern Californi… [+4815 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "William Booth",
+            "title": "Paris siege: French farmers encircle capital with an angry blockade - The Washington Post",
+            "description": "French farmers deployed their tractors to choke major highways, disrupting not only trade and traffic, but also politics and normal life, to protest subsidy cuts and new regulations.",
+            "url": "https://www.washingtonpost.com/world/2024/01/29/paris-siege-farmer-protests-france/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LFGCYQCHHUHLNGDHWUFH5W7EOM_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-01-29T20:36:58Z",
+            "content": "It looked like a military campaign. The farmers called it Operation Paris Siege, while the French interior minister ordered an important defensive system to protect the capital and its airports. On … [+5556 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Trump tax return leaker sentenced to 5 years in prison - POLITICO",
+            "description": "Judge Ana Reyes said: It cannot be open season on our elected officials",
+            "url": "https://www.politico.com/news/2024/01/29/irs-charles-littlejohn-tax-prison-trump-00138367",
+            "urlToImage": "https://static.politico.com/46/3f/e19872aa4a1b87b32276071ce817/https-delivery-gettyimages.com/downloads/1246514121",
+            "publishedAt": "2024-01-29T20:19:08Z",
+            "content": "When you target the sitting president of the United States, youre targeting the office and when youre targeting the office of the president of the United States, youre targeting democracy youre targe… [+3419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kennedyspacecenter.com"
+            },
+            "author": "",
+            "title": "ROCKET LAUNCH SpaceX Falcon 9 CRS-29 - Kennedy Space Center",
+            "description": null,
+            "url": "https://www.kennedyspacecenter.com/launches-and-events/events-calendar/2024/january/rocket-launch-spacex-falcon-9-crs-ng-20",
+            "urlToImage": null,
+            "publishedAt": "2024-01-29T20:15:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Liz Szabo",
+            "title": "Human growth hormone shots from cadavers linked to Alzheimer's, study finds - NBC News",
+            "description": "Human growth hormone derived from cadavers was linked to Alzheimer's disease in five patients who received injections decades ago, a study in Nature Medicine finds.",
+            "url": "https://www.nbcnews.com/health/health-news/human-growth-hormone-shots-cadavers-linked-alzheimers-study-finds-rcna135927",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240129-human-growth-hormone-se-1205p-7a9caf.jpg",
+            "publishedAt": "2024-01-29T20:11:44Z",
+            "content": "Five patients in the United Kingdom have developed Alzheimers disease that appears to be the result of contaminated injections they received as children decades ago, according to a new study that cou… [+7979 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam Teicher",
+            "title": "Chiefs' Andy Reid says Kadarius Toney injury 'not made up' - ESPN",
+            "description": "Chiefs coach Andy Reid denied providing inaccurate injury information on Kadarius Toney after the receiver went on an expletive-laden social media rant.",
+            "url": "https://www.espn.com/nfl/story/_/id/39416909/chiefs-andy-reid-says-kadarius-toney-injury-not-made-up",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1010%2Fr1236773_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-01-29T19:38:00Z",
+            "content": "KANSAS CITY, Mo. -- Coach Andy Reid said the Kansas City Chiefs did not file erroneous injury reports regarding Kadarius Toney as the wide receiver claimed in a profanity-filled Instagram Live post a… [+1890 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Lauren Sforza",
+            "title": "Trump: Border deal being used to put ‘disaster’ onto Republicans’ shoulders - The Hill",
+            "description": "Former President Trump railed against the Senate bipartisan border deal Monday, saying the legislation is unnecessary and will only make the border worse. Trump has been blasting the border deal for days as negotiators on both sides of the aisle hammer out th…",
+            "url": "https://thehill.com/homenews/campaign/4435866-trump-rails-senate-border-deal/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/AP24020091429854-e1705774650421.jpg?w=1280",
+            "publishedAt": "2024-01-29T19:34:00Z",
+            "content": "Skip to content Former President Trump railed against the Senate bipartisan border deal Monday, saying the legislation is unnecessary and will only make the border worse. Trump has been blasting th… [+1619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Arrests made in Mojave Desert deaths - KTLA 5",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=FTyXQck1EII",
+            "urlToImage": null,
+            "publishedAt": "2024-01-29T19:33:12Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Dr Prem Kumar Sharma, Manisha Koushik",
+            "title": "Horoscope Today: Astrological prediction for January 30, 2024 - Hindustan Times",
+            "description": "Daily horoscope: Are the stars lined up in your favour? Find out the astrological prediction for Aries, Leo, Virgo, and other zodiac signs for January 30, 2024. | Horoscope",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-january-30-2024-101706541911292.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/29/1600x900/Image_3_1664104876532_1706542014580.jpg",
+            "publishedAt": "2024-01-29T19:30:05Z",
+            "content": "All zodiac signs have their own characteristics and traits which define someones personality. Wouldnt it be helpful if you started your day by already knowing about whats going to come your way? Read… [+6943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "fox8.com"
+            },
+            "author": "Talia Naquin",
+            "title": "Burger King unveils new Whopper - WJW FOX 8 News Cleveland",
+            "description": "Having it “your way” at Burger King just got a little sweeter.",
+            "url": "https://fox8.com/news/burger-king-unveils-new-whopper/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2024/01/Candied-Bacon-Whopper.jpg?w=1280",
+            "publishedAt": "2024-01-29T19:28:39Z",
+            "content": "(WJW) Having it your way at Burger King just got a little sweeter. Starting Monday, Burger King is introducing the Candied Bacon Whopper. Its a ½ lb. flame-grilled beef patty with tomatoes, lettuce… [+310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "49ers' Brock Purdy matches Joe Montana with rare feat that no NFL quarterback had pulled off in 39 years - CBS Sports",
+            "description": "You don't see this happen very often",
+            "url": "https://www.cbssports.com/nfl/news/49ers-brock-purdy-matches-joe-montana-with-rare-feat-that-no-nfl-quarterback-had-pulled-off-in-39-years/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/29/64c580e2-c852-480e-bccd-f6823e96203a/thumbnail/1200x675/ab33c9f92bddbbe4b66ad1a3272c21c8/brock-purdy.jpg",
+            "publishedAt": "2024-01-29T18:48:03Z",
+            "content": "A big reason San Francisco was able to pull off a big comeback win over Detroit during the NFC Championship on Sunday is because Brock Purdy had a huge second half.  Over the final two quarters, Pur… [+2089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Document spells out allegations against 12 UN employees Israel says participated in Hamas attack - Yahoo News",
+            "description": null,
+            "url": "https://news.yahoo.com/document-spells-allegations-against-12-120857489.html",
+            "urlToImage": null,
+            "publishedAt": "2024-01-29T18:45:01Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jason Schreier, Dina Bass",
+            "title": "Activision Blizzard Taps Johanna Faries to Replace Mike Ybarra as President - Bloomberg",
+            "description": "Replaces Mike Ybarra who left the video-game company last week as part of mass layoffs under new owner Microsoft",
+            "url": "https://www.bloomberg.com/news/articles/2024-01-29/blizzard-s-new-president-johanna-faries-is-former-call-of-duty-nfl-executive",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixNEmcEaGuBc/v1/1200x675.jpg",
+            "publishedAt": "2024-01-29T18:06:07Z",
+            "content": "Video-game developer Blizzard Entertainment has appointed Johanna Faries as its next president, the first new leader of the studio since Microsoft Corp. purchased its parent company Activision Blizza… [+329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Tionah Lee",
+            "title": "Shannen Doherty Reveals 'Miracle' Update in Her Cancer Treatment - Entertainment Tonight",
+            "description": "The 'Beverly Hills, 90210' alum has been candid about her stage 4 cancer diagnosis.",
+            "url": "https://www.etonline.com/shannen-doherty-reveals-miracle-update-in-her-cancer-treatment-218754",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-01/ETD_TREND_Shannen_Doherty_20240116.jpg?h=d1cb525d",
+            "publishedAt": "2024-01-29T17:59:00Z",
+            "content": "Shannen Doherty has a positive update regarding her stage 4 cancer diagnosis. On Monday, the Beverly Hills, 90210 alum released the latest episode of her Let's Be Clear podcast, where she spoke with… [+2545 chars]"
+        }
+    ]
+}
